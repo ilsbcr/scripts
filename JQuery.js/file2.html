@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Show/Hide Example</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('#toggleButton').click(function(){
+        $('#toggleDiv').toggle();
+      });
+    });
+  </script>
+  <style>
+    #toggleDiv {
+      width: 200px;
+      height: 100px;
+      background-color: lightblue;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <button id="toggleButton">Show/Hide Div</button>
+  <div id="toggleDiv">This is a toggle-able div.</div>
+</body>
+</html>

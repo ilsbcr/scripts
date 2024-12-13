@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Change Content Example</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('#changeTextButton').click(function(){
+        $('#text').text('The content has been changed!');
+      });
+    });
+  </script>
+</head>
+<body>
+  <p id="text">Original Content.</p>
+  <button id="changeTextButton">Change Text</button>
+</body>
+</html>
