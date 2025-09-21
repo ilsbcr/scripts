@@ -1,0 +1,36 @@
+﻿name_ar,type,group_id,id,name,description,created_at,updated_at,description_ar,icon
+طلب شهادة عمل للموظفين,0,1,1,Demande d'attestation de travail pour les salariés,Demande d'attestation de travail pour les salariés,NULL,2024-10-13 12:30:54.717,طلب شهادة عمل للموظفين,NULL
+طلب شهادة عمل للمديرين,0,2,2,Demande d'attestation de travail pour les responsable,Demande d'attestation de travail pour les responsable,NULL,2024-10-13 12:31:21.407,طلب شهادة عمل للمديرين,NULL
+طلب شهادة إجازة للموظفين,0,1,3,Demande d'attestation de conge pour les salariés,Demande d'attestation de conge pour les salariés,NULL,2024-10-13 12:32:59.040,طلب شهادة إجازة للموظفين,NULL
+طلب شهادة إجازة للمديرين,0,2,4,Demande d'attestation de conge pour les responsable,Demande d'attestation de conge pour les responsable,NULL,2024-10-13 12:32:37.200,طلب شهادة إجازة للمديرين,NULL
+طلب معالجة الاستقالة للموظفين,0,1,5,Demande de traitement de demission pour les salariés,Demande de traitement de demission pour les salariés,NULL,2024-10-13 12:33:36.117,طلب معالجة الاستقالة للموظفين,NULL
+معالجة طلب الاستقالة للمديرين,0,2,6,Demande de traitement de demission pour les responsable,Demande de traitement de demission pour les responsable,NULL,2024-10-13 12:34:03.173,معالجة طلب الاستقالة للمديرين,NULL
+طلب إجازة غياب للموظفين,0,1,7,Demande de mise en disponibilité pour les salariés,Demande de mise en disponibilité pour les salariés,NULL,2024-10-13 12:35:34.980,طلب إجازة غياب للموظفين,NULL
+طلب إجازة غياب للمديرين,0,2,8,Demande de mise en disponibilité pour les responsable,Demande de mise en disponibilité pour les responsable,NULL,2024-10-13 12:36:12.110,طلب إجازة غياب للمديرين,NULL
+طلب الغياب للدراسة للموظفين,0,1,9,Demande d'absence pour etude pour les salariés,Demande d'absence pour etude pour les salariés,NULL,2024-10-13 12:37:17.390,طلب الغياب للدراسة للموظفين,NULL
+طلب غياب للدراسة للمديرين,0,2,10,Demande d'absence pour etude pour les responsable,Demande d'absence pour etude pour les responsable,NULL,2024-10-13 12:37:42.103,طلب غياب للدراسة للمديرين,NULL
+طلب التأهيل الوظيفي للموظفين,0,1,11,Demande De rééducation fonctionnelle pour les salariés,Demande De rééducation fonctionnelle pour les salariés,NULL,2024-10-13 12:38:31.180,طلب التأهيل الوظيفي للموظفين,NULL
+طلب التأهيل الوظيفي للمديرين,0,2,12,Demande De rééducation fonctionnelle pour les responsable,Demande De rééducation fonctionnelle pour les responsable,NULL,2024-10-13 12:38:53.303,طلب التأهيل الوظيفي للمديرين,NULL
+طلب غياب لامتحان للموظفين,0,1,13,Demande d'absence pour un examen pour les salariés,Demande d'absence pour un examen pour les salariés,NULL,2024-10-13 12:39:33.823,طلب غياب لامتحان للموظفين,NULL
+طلب غياب لامتحان للمديرين,0,2,14,Demande d'absence pour un examen pour les responsable,Demande d'absence pour un examen pour les responsable,NULL,2024-10-13 12:39:56.177,طلب غياب لامتحان للمديرين,NULL
+طلب التعويض,0,NULL,15,Demande d'un regime indemnitaire,Demande d’un régime indemnitaire (Véhicule – Transport – Correction des absences – Prime d'installation – Prime de caisse – Prime d'intérim – IFSP),NULL,2024-10-13 12:40:42.953,طلب التعويض,NULL
+طلب نظام التعويضات الاجتماعية,0,NULL,16,Demande d'un regime indemnitaire social,Demande d'un regime indemnitaire social,NULL,2024-10-13 12:41:05.000,طلب نظام التعويضات الاجتماعية,NULL
+طلب التقاعد للموظفين,0,1,17,Demande de retraite pour les salariés,Demande de retraite pour les salariés,NULL,2024-10-13 12:41:36.697,طلب التقاعد للموظفين,NULL
+طلب التقاعد للمديرين,0,2,18,Demande de retraite pour les responsable,Demande de retraite pour les responsable,NULL,2024-10-13 12:42:01.143,طلب التقاعد للمديرين,NULL
+طلب شكوى,0,NULL,19,Demande de réclamation,Demande de réclamation,NULL,2024-10-13 12:43:14.227,طلب شكوى,NULL
+تهيئة الإجازة المتبقية,2,NULL,20,Initialisation des reliquats de conge,Initialisation des reliquats de conge,2024-08-12 13:02:30.177,2024-10-13 12:43:46.780,تهيئة الإجازة المتبقية,NULL
+طلب إجازة للموظفين,1,1,21,Demande de conge pour les salariés,Demande de conge pour les salariés,2024-08-12 13:03:14.797,2024-10-13 12:46:07.720,طلب إجازة للموظفين,NULL
+طلب إجازة للمديرين,1,2,22,Demande de conge pour les responsable,Demande de conge pour les responsable,2024-08-12 13:03:56.350,2024-10-13 12:47:04.143,طلب إجازة للمديرين,NULL
+طلب عمل مؤقت أقل من 30 يوم للمديرين,4,2,23,Demande d'édition d'interim moins de 30 jours pour les responsable,Demande d'édition d'interim moins de 30 jours pour les responsable,2024-08-12 13:04:49.830,2024-11-03 13:00:34.787,طلب عمل مؤقت أقل من 30 يوم للمديرين,NULL
+طلب عمل مؤقت لمدة أكثر من 30 يوما للمديرين,4,2,24,Demande d'édition d'interim plus de 30 jours pour les responsable,Demande d'édition d'interim plus de 30 jours pour les responsable,2024-08-12 13:05:20.797,2024-11-03 13:03:24.713,طلب عمل مؤقت لمدة أكثر من 30 يوما للمديرين,NULL
+طلب إصدار فترة مؤقتة لمدة 30 يوما للوظائف العضوية,4,1,25,Demande d'édition d'interim mois de 30 jours pour les postes organique,Demande d'édition d'interim mois de 30 jours pour les postes organique,2024-08-12 13:06:19.670,2024-11-03 13:03:39.417,طلب إصدار فترة مؤقتة لمدة 30 يوما للوظائف العضوية,NULL
+طلب عمل مؤقت يستمر لأكثر من 30 يومًا للوظائف العضوية,4,1,26,Demande d'édition d'interim plus de 30 jours pour les postes organique,Demande d'édition d'interim plus de 30 jours pour les postes organique,2024-08-12 13:07:05.817,2024-11-03 13:03:50.073,طلب عمل مؤقت يستمر لأكثر من 30 يومًا للوظائف العضوية,NULL
+إدراج تخطيط الإجازة المؤقتة,3,NULL,27,Insertion Planning Prévisionnel des congés,Insertion Planning Prévisionnel des congés,2024-08-12 13:07:29.613,2024-10-13 12:49:50.833,إدراج تخطيط الإجازة المؤقتة,NULL
+طلب سلفة الراتب,0,NULL,30,Demande d'avance sur le salaire,Demande d'avance sur le salaire,2024-08-21 09:57:10.487,2024-10-13 12:50:29.517,طلب سلفة الراتب,NULL
+اطلب قسيمة دفع مكررة,0,NULL,31,Demande d'un duplicata de fiche de paie,Demande d'un duplicata de fiche de paie,2024-08-21 09:57:43.683,2024-10-13 12:51:00.490,اطلب قسيمة دفع مكررة,NULL
+طلب كشف المكافآت,0,NULL,32,Demande d'un releve des emoluments,Demande d'un releve des emoluments,2024-08-21 09:58:17.197,2024-10-13 12:51:28.600,طلب كشف المكافآت,NULL
+طلب منح علاوة التعليم,0,NULL,33,Demande d'octroi de la prime de scolarite,Demande d'octroi de la prime de scolarite,2024-08-21 09:59:04.507,2024-11-17 08:45:17.457,طلب منح علاوة التعليم,NULL
+طلب شكوى,0,NULL,38,Demande de Reclamation (Paie),Demande de Reclamation (Paie),2024-11-17 08:46:40.230,2024-11-17 08:46:40.230,طلب شكوى,NULL
+طلب سلفة استثنائية على الراتب,0,NULL,39,Demande d'avance sur le salaire exceptionnelle,Demande d'avance sur le salaire exceptionnelle,2024-11-17 08:48:04.457,2024-11-17 08:48:04.457,طلب سلفة استثنائية على الراتب,NULL
+طلب شهادة تسديد السلفة الاستثنائية على الراتب,0,NULL,40,Demande d'attestation de remboursement dse avances sur salaire exceptionelles,Demande d'attestation de remboursement dse avances sur salaire exceptionelles,2024-11-17 08:49:28.753,2024-11-17 08:49:28.753,طلب شهادة تسديد السلفة الاستثنائية على الراتب,NULL
+العجز النقدي,0,NULL,41,Deficit de caisse,Deficit de caisse,2024-11-17 08:49:51.383,2024-11-17 08:49:51.383,العجز النقدي,NULL
